@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+}
+h1{
+    text-align: center; color:azure
+}
+fieldset{
+    background-color: aquamarine;
+    float: center;
+    width:20%;
+    margin: 0px auto;
+    
+}
+legend{
+    background-color: red;
+    text-align: center;
+    
+}
+p{
+    line-height: 1px;
+    text-align: center;
+}
+button{
+    float: right;
+    margin-left: 10px;
+    
+
+}
